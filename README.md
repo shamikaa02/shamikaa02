@@ -1,4 +1,4 @@
-### Hi there 👋,It's me Shamika Deshpande!A Technofreak !
+### Hi there 👋,It's me Shamika Deshpande!A Technofreak!
 ![](https://komarev.com/ghpvc/?username=shamika002&color=blue&style=plastic)
 I am an Machine Learning Enthusiast!
 
